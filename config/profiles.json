@@ -1,1 +1,11 @@
-
+"browser": "chrome",
+"drivers": {
+        "chrome": "../drivers/chromedriver.exe",
+        "edge": "../drivers/msedgedriver.exe",
+        "firefox": "../drivers/geckodriver.exe"
+},
+"login": {
+        "url": "https://shrushrita.net/",
+        "username": "",
+        "password": ""
+}
